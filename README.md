@@ -8,3 +8,6 @@ https://github.com/hustxiaoc/node.js/issues/2
 
 #### Node.js timer
 https://github.com/hustxiaoc/node.js/issues/3
+
+#### module-unique saves your node.js memory
+https://github.com/hustxiaoc/node.js/issues/4
