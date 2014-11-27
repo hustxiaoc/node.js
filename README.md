@@ -11,3 +11,6 @@ https://github.com/hustxiaoc/node.js/issues/3
 
 #### module-unique saves your node.js memory
 https://github.com/hustxiaoc/node.js/issues/4
+
+#### data structure
+https://github.com/hustxiaoc/node.js/issues/6
