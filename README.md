@@ -14,3 +14,6 @@ https://github.com/hustxiaoc/node.js/issues/4
 
 #### data structure
 https://github.com/hustxiaoc/node.js/issues/6
+
+### V8 out-of-band write in utf8 decoder
+https://github.com/hustxiaoc/node.js/issues/7
