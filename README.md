@@ -20,3 +20,6 @@ https://github.com/hustxiaoc/node.js/issues/7
 
 ### 聊聊Node.js 独立日漏洞
 https://github.com/hustxiaoc/node.js/issues/9
+
+### timer的优化故事
+https://github.com/hustxiaoc/node.js/issues/10
