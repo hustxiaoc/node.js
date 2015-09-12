@@ -9,7 +9,7 @@ https://github.com/hustxiaoc/node.js/issues/2
 #### Node.js timer
 https://github.com/hustxiaoc/node.js/issues/3
 
-#### module-unique saves your node.js memory
+#### 使用module-unique优化你的Node.js项目(module-unique saves your node.js memory)
 https://github.com/hustxiaoc/node.js/issues/4
 
 #### data structure
