@@ -23,3 +23,6 @@ https://github.com/hustxiaoc/node.js/issues/9
 
 #### timer的优化故事
 https://github.com/hustxiaoc/node.js/issues/10
+
+#### 当我们谈论 cluster 时我们在谈论什么
+https://github.com/hustxiaoc/node.js/issues/11
