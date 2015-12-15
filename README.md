@@ -26,3 +26,6 @@ https://github.com/hustxiaoc/node.js/issues/10
 
 #### 当我们谈论 cluster 时我们在谈论什么
 https://github.com/hustxiaoc/node.js/issues/11
+
+#### 多进程下的测试覆盖率
+https://github.com/hustxiaoc/node.js/issues/12
