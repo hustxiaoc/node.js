@@ -29,3 +29,6 @@ https://github.com/hustxiaoc/node.js/issues/11
 
 #### 多进程下的测试覆盖率
 https://github.com/hustxiaoc/node.js/issues/12
+
+#### 进程间通信的另类实现
+https://github.com/hustxiaoc/node.js/issues/13
