@@ -1,4 +1,4 @@
-## nodejs 学习笔记
+## 学习笔记
 
 #### Node.js 之对象池 
 https://github.com/hustxiaoc/node.js/issues/1
